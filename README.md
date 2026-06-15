@@ -57,3 +57,13 @@ Found a bug or want to improve the app? Open an [issue](../../issues) or submit 
 ## ⭐ Support
 
 If Cricfy helps you catch your games — drop a star. It costs nothing and means a lot.
+
+
+---
+
+## 📢 About This Repository
+
+This repository is a **mirror/distribution point** for the Cricfy application.  
+**I am not the original developer or owner of Cricfy.**
+
+This repo exists to make the app more accessible. For official information, updates, and support, visit [cricfy.net](https://cricfy.net).
