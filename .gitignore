@@ -1,0 +1,6 @@
+*.keystore
+*.jks
+local.properties
+.DS_Store
+Thumbs.db
+*.log
