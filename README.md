@@ -5,6 +5,7 @@
 [![Download](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](../../releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Android%20TV%20%7C%20Android-blue?style=for-the-badge)]()
 [![Free](https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge)]()
+[![Website](https://img.shields.io/badge/Website-cricfy.net-orange?style=for-the-badge)](https://cricfy.net)
 
 ---
 
@@ -17,6 +18,8 @@ Cricfy is a free APK that lets you stream **live sports** directly on your Andro
 - 🏀 Basketball
 - 🎾 Tennis
 - 🏆 And more...
+
+**Visit [cricfy.net](https://cricfy.net) for more info.**
 
 ---
 
@@ -54,4 +57,3 @@ Found a bug or want to improve the app? Open an [issue](../../issues) or submit 
 ## ⭐ Support
 
 If Cricfy helps you catch your games — drop a star. It costs nothing and means a lot.
-
